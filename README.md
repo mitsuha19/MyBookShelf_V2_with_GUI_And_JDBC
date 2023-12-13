@@ -22,6 +22,6 @@ kemudian
 untuk memastikan bahwa tabel nya sudah tersedia pada database, silahkan mengeksekusi 
 	SELECT * FROM users
 
-3. Silahkan extract File app_k4_11s22036.zip
+3. Silahkan extract File MyBookShelf04.zip
 4. Silahkan buka NetBeans pada device anda, kemudia open project yang terdapat pada file yang telah di extraxt
 5. Aplikasi sudah dapat dijalankan.
